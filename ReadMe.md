@@ -34,9 +34,9 @@ Adicionalmente, para obtener información sobre las personas a nivel municipal s
 
 ### 1. Comparación entre cobertura de aseguramiento y distribución de las IPS a nivel municipal
 
-![Insumo1.png](attachment:Insumo1.png)
+![Insumo1](https://user-images.githubusercontent.com/92476723/142965399-8d7bcd84-e962-4de3-bbb7-f7fc5def6e2d.png)
 
-![Insumo2.png](attachment:Insumo2.png)
+![Insumo2](https://user-images.githubusercontent.com/92476723/142965425-272bca1b-9ccb-47ce-8c77-10629d876786.png)
 
 - De los 1.122 municipios de Colombia, 926 cuentan con el servicio de una IPS. Sin embargo, 12 municipios no cuentan con aseguramiento, es decir, ninguno de la población está afiliado al sistema de salud; estos municipios tampoco cuentan con IPS y pertenecen a los departamentos de Guainía, Amazonas, Vaupés y Chocó
 
@@ -49,7 +49,7 @@ El nivel de complejidad determina el nivel de los servicios proporcionados por l
 - **Nivel 2:** Cuenta con servicio de médico general y/o profesional paramédico con interconsulta, remisión y/o asesoría de personal o recursos especializados.
 - **Nivel 3:** : Servicios de médico especialista con la participación del médico general y/o profesional paramédico. 
 
-![Insumo3.png](attachment:Insumo3.png)
+![Insumo3](https://user-images.githubusercontent.com/92476723/142965435-74bb29d3-55d0-4695-9b6b-557b59458da2.png)
 
 En Colombia el nivel de complejidad es sólo calculado para las IPS públicas, de las cuales 859 de nivel 1, 115 de nivel 2 y 28 de nivel 3. Estas tienen presencia en 798, 106 y 19 municipios, respectivamente. Esto lo que muestra es un escenario complejo para acceder a servicios de salud con especialistas o con nivel de atención más complejo frente a diferentes enfermedades teniendi en cuenta que las IPS públicas tienen mayor presencia en todo el territorio. 
 
