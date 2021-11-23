@@ -57,14 +57,14 @@ En Colombia el nivel de complejidad es sólo calculado para las IPS públicas, d
 
 
 
-![Tratamiento.png](attachment:Tratamiento.png)
+![Tratamiento](https://user-images.githubusercontent.com/92476723/142965647-f116be04-919d-45a1-8a49-eb8745f9822e.png)
 
 De las personas que manifestaron tener un problema de salud que no requería hospitalización en los últimos 30 días, la mayoría asistió a una IPS o médico particular. Sin embargo, el uso de remedios caseros o la automedicación son elementos que levantan alarmas y que habría que observar con mayor detalle, porque podrían generar complicaciones dependiendo del tipo de enfermedad.
 
 ###  4. Calidad del servicio IPS
 
 
-![Calidad.png](attachment:Calidad.png)
+![Calidad](https://user-images.githubusercontent.com/92476723/142965659-b91ef77c-009a-40f7-9aa9-835267abb9d8.png)
 
 De las personas que asistieron a su IPS consideran que el servicio es muy bueno o bueno. Sin embargo, sería interesante conocer las razones por las cuales algunos continúan considerando que el servicio es malo para poder mejorar el sistema de salud
 
