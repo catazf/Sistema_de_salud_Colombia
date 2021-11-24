@@ -23,7 +23,7 @@ Adicionalmente, para obtener información sobre las personas a nivel municipal s
 - Atención del problema de salud en la IPS
 - Calidad de la prestación del servicio de salud en la IPS
 
-En el siguiente enlace se puede descargar la bases de datos y shapes usados para los mapara: https://drive.google.com/drive/folders/1IDeWDjOXbpwnckqsD_7wghsj_s_W-vzK?usp=sharing
+En el siguiente enlace se puede descargar la bases de datos y shapes usados para los mapas: https://drive.google.com/drive/folders/1IDeWDjOXbpwnckqsD_7wghsj_s_W-vzK?usp=sharing
 
 ## <font color='teal'>Procesamiento</font>
 
